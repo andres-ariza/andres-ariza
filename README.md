@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andres-ariza
 - 👀 I’m interested in Full-stack dev
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me afarizap@gmail.com / andres.aariza@mercadolibre.com.co
 
